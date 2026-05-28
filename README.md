@@ -62,14 +62,14 @@ The project focuses on transforming raw startup data into meaningful business in
 
 # 🚀 Key Features
 
-🌎 Country-wise Startup Analysis
-💰 Funding & Investment Tracking
-📈 Startup Growth Trend Analysis
-🏢 Industry/Category-Based Insights
-📊 Interactive KPIs and Charts
-🔍 Dynamic Filters & Slicers
-📅 Year-wise Funding Analysis
-📌 Investor & Market Insights
+🌎 Country-wise Startup Analysis.
+💰 Funding & Investment Tracking.
+📈 Startup Growth Trend Analysis.
+🏢 Industry/Category-Based Insights.
+📊 Interactive KPIs and Charts.
+🔍 Dynamic Filters & Slicers.
+📅 Year-wise Funding Analysis.
+📌 Investor & Market Insights.
 
 # 📊 Dashboard Insights
 
@@ -105,10 +105,13 @@ The project enables users to analyze investment distribution, startup performanc
 
 # 👨‍💻 Author
 **Mayur Pundkare**
+
 🔗 LinkedIn:
+
  www.linkedin.com/in/mayur-pundkare
 
 💻 GitHub:
+
 https://github.com/mayurpundkare
 
 ⭐ If you found this project helpful, don’t forget to give it a star!
