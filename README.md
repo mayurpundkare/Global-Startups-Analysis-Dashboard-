@@ -111,7 +111,7 @@ The project enables users to analyze investment distribution, startup performanc
 <img width="1333" height="751" alt="Screenshot 2026-05-28 201420" src="https://github.com/user-attachments/assets/68499b79-bdb8-4403-935e-813aa9a6fd84" />
 
 # 👨‍💻 Author
-**Mayur Pundkare**
+# **Mayur Pundkare**
 
 🔗 LinkedIn:
 
