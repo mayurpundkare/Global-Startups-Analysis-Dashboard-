@@ -60,15 +60,22 @@ The project focuses on transforming raw startup data into meaningful business in
 5. Data Visualization
 6. Insights Generation
 
-# 🚀 Key Features
+# 🚀 Key Features:
 
 🌎 Country-wise Startup Analysis.
+
 💰 Funding & Investment Tracking.
+
 📈 Startup Growth Trend Analysis.
+
 🏢 Industry/Category-Based Insights.
+
 📊 Interactive KPIs and Charts.
+
 🔍 Dynamic Filters & Slicers.
+
 📅 Year-wise Funding Analysis.
+
 📌 Investor & Market Insights.
 
 # 📊 Dashboard Insights
@@ -84,16 +91,16 @@ The dashboard provides insights into:
 
 # 📈 Key Insights
 
-◆ The United States, India, and the United Kingdom recorded the highest number of startup companies globally.
-◆ Technology, FinTech, and E-commerce emerged as the top-performing startup industries with maximum investments.
-◆ Startup funding increased significantly over recent years, showing rapid growth in the global startup ecosystem.
-◆ Most startups were concentrated in major business hubs and metropolitan cities across different countries.
-◆ Several unicorn startups achieved multi-billion-dollar valuations through strong investor support and market expansion.
-◆ Seed and Series A funding rounds were the most common investment stages among emerging startups.
-◆ Investor analysis showed that venture capital firms heavily invested in AI, FinTech, and SaaS-based startups.
-◆ Country-wise analysis highlighted that developed economies attracted higher startup investments compared to developing regions.
-◆ The dashboard revealed that startup growth trends varied significantly across industries and geographic locations.
-◆ Interactive visualizations helped identify top-funded startups, market trends, and global investment patterns effectively.
+* The United States, India, and the United Kingdom recorded the highest number of startup companies globally.
+* Technology, FinTech, and E-commerce emerged as the top-performing startup industries with maximum investments.
+* Startup funding increased significantly over recent years, showing rapid growth in the global startup ecosystem.
+* Most startups were concentrated in major business hubs and metropolitan cities across different countries.
+* Several unicorn startups achieved multi-billion-dollar valuations through strong investor support and market expansion.
+* Seed and Series A funding rounds were the most common investment stages among emerging startups.
+* Investor analysis showed that venture capital firms heavily invested in AI, FinTech, and SaaS-based startups.
+* Country-wise analysis highlighted that developed economies attracted higher startup investments compared to developing regions.
+* The dashboard revealed that startup growth trends varied significantly across industries and geographic locations.
+* Interactive visualizations helped identify top-funded startups, market trends, and global investment patterns effectively.
 
 # ✅ Conclusion
 
