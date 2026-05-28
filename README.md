@@ -61,6 +61,7 @@ The project focuses on transforming raw startup data into meaningful business in
 6. Insights Generation
 
 # 🚀 Key Features
+
 🌎 Country-wise Startup Analysis
 💰 Funding & Investment Tracking
 📈 Startup Growth Trend Analysis
@@ -71,7 +72,9 @@ The project focuses on transforming raw startup data into meaningful business in
 📌 Investor & Market Insights
 
 # 📊 Dashboard Insights
+
 The dashboard provides insights into:
+
 * Total startups across countries
 * Highest funded startups
 * Investment trends over years
@@ -80,6 +83,7 @@ The dashboard provides insights into:
 * Startup valuation and growth patterns
 
 # 📈 Key Insights
+
 ◆ The United States, India, and the United Kingdom recorded the highest number of startup companies globally.
 ◆ Technology, FinTech, and E-commerce emerged as the top-performing startup industries with maximum investments.
 ◆ Startup funding increased significantly over recent years, showing rapid growth in the global startup ecosystem.
